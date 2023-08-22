@@ -1,7 +1,7 @@
 # aliyun-signin-action
 阿里签到
 
-
+00
 # Action 使用指南
 
 ## 特性
